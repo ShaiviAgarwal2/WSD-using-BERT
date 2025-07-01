@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers>=4.30.0 # Use a version compatible with your training
+nltk
+scikit-learn # Might not be strictly needed, but safer to include
+tqdm # Might not be strictly needed, but safer to include
